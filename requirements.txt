@@ -6,5 +6,4 @@ opencv-python==4.6.0.66
 opencv-python-headless==4.6.0.66
 matplotlib
 tensorflow==2.8.2
-tesseract-ocr
 pytesseract==0.3.9
